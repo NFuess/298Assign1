@@ -1,3 +1,4 @@
+[Info]
 Nick Fuess | SSID 2341608 | CPSC-298-07 | Assignment 1
 
 [Files]
