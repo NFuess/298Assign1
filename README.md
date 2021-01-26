@@ -1,14 +1,29 @@
-[Info]
-Nick Fuess | SSID 2341608 | CPSC-298-07 | Assignment 1
+Info
 
-[Files]
-ProblemCereal.cpp | ProblemEmployeePay.cpp | ProblemFireCapacity.cpp
+    Nick Fuess 
 
-[Issues]
-Files don't implement handling for incorrect user inputs. 
+    SSID 2341608 
 
-[References]
-Zybooks
+    CPSC-298-07
 
-[Instructions]
+    Assignment 1
+
+Files
+
+    ProblemCereal.cpp 
+
+    ProblemEmployeePay.cpp 
+
+    ProblemFireCapacity.cpp
+
+Issues
+
+    Files don't implement handling for incorrect user inputs. 
+
+References
+
+    Zybooks
+
+Instructions
+
 Compile .cpp files with g++ and run the resulting .out files
