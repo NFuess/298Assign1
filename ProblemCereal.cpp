@@ -1,7 +1,7 @@
 /*
-*Nick Fuess
-*2341608
-*Assignment #1
+This program prompts the user for the weight of a given cereal box in ounces, converting and outputing the equivalent weight
+in metric tons. The program also calculates and ouputs how many cereal boxes of the given weight would be needed to have a
+combined weight equivalent to a single metric ton.
 */
 
 #include <iostream>

@@ -1,7 +1,7 @@
 /*
-*Nick Fuess
-*2341608
-*Assignment #1
+This program asks for the maximum occupants allowed inside a meeting room per legal requirements and the number of
+attendees for a given meeting. The program interprets those inputs and outputs whether or not the meeting is
+or is not in violation of fire saftey codes.
 */
 
 #include <iostream>

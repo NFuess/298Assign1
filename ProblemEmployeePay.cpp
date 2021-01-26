@@ -1,8 +1,4 @@
-/*
-*Nick Fuess
-*2341608
-*Assignment #1
-*/
+/*This program prompts a user for the number of hours worked to calculate their weekly gross and net wages.*/
 
 #include <iostream>
 #include <iomanip>
