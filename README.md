@@ -26,4 +26,4 @@ References
 
 Instructions
 
-Compile .cpp files with g++ and run the resulting .out files
+    Compile .cpp files with g++ and run the resulting .out files
